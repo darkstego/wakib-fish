@@ -22,7 +22,7 @@ if status is-interactive
 	# Signals
 	bind \cg cancel-commandline
 	# Directories
-	bind \em __fish_list-current_token
+	bind \em __fish_list_current_token
 	# copy/paste
 	bind \cc fish_clipboard_copy
 end
